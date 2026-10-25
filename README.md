@@ -89,7 +89,7 @@ This was a team project. My part was:
 
 ## Author
 
-Md. Mamun Miah
-Department of Information and Communication Technology
+Md. Mamun Miah \
+Department of Information and Communication Technology \
 Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh
 
